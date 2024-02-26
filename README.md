@@ -1,0 +1,2 @@
+# testnet-evairo
+testnet
